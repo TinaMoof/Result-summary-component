@@ -45,7 +45,7 @@ background: linear-gradient(180deg, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 text-align: center;
 color: var(--Pale-blue);
 width: 20vw;
-height: 45vh;
+height: 40vh;
 border-radius: 20px;
 padding: 20px;
 }
@@ -83,7 +83,7 @@ small {
 
 .flex-sum {
     width: 20vw;
-    height: 45vh;
+    height: 40vh;
     background-color: var(--White);
     padding: 20px;
     padding-top: 0;
@@ -108,7 +108,7 @@ h3 {text-align: left; margin-top: 10px;}
     margin-left: 13px;
 }
 span:not(:last-child) { margin-bottom: 10px;}
-span:last-child {margin-bottom: 20px;}
+span:last-child {margin-bottom: 15px;}
 
 .content {
     display: flex;
